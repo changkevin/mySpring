@@ -53,8 +53,8 @@
 		</property>
 	</bean>
 	
-	<!-- 为springmvc添加properties文件 -->
+	<!-- 为springmvc添加properties文件 
 	<context:property-placeholder
 		ignore-unresolvable="true" location="classpath*:/application.properties" />
-
+	-->
 </beans>
