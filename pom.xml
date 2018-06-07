@@ -271,5 +271,11 @@
 	    <version>2.9.9</version>
 	</dependency>
 	
+	<dependency>  
+        <groupId>com.jfinal</groupId>  
+        <artifactId>jfinal</artifactId>  
+        <version>3.3</version>  
+    </dependency> 
+	
 	</dependencies>
 </project>
